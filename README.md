@@ -1,3 +1,11 @@
+![PyPI](https://img.shields.io/pypi/v/valinix)
+![Python](https://img.shields.io/pypi/pyversions/valinix)
+![License](https://img.shields.io/github/license/CodeCaret/valinix)
+
+# Valinix
+
+
+
 # Valinix
 
 **Valinix** is a lightweight, customizable validation library designed to simplify user input validation in CLI-based Python projects.
