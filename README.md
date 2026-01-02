@@ -2,8 +2,6 @@
 ![Python](https://img.shields.io/pypi/pyversions/valinix)
 ![License](https://img.shields.io/github/license/CodeCaret/valinix)
 
-# Valinix
-
 
 
 # Valinix
