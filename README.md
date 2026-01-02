@@ -1,6 +1,6 @@
-![PyPI](https://img.shields.io/pypi/v/valinix)
-![Python](https://img.shields.io/pypi/pyversions/valinix)
-![License](https://img.shields.io/github/license/CodeCaret/valinix)
+[![PyPI](https://img.shields.io/pypi/v/valinix)](https://pypi.org/project/valinix/)
+[![Python](https://img.shields.io/badge/python-%3E%3D3.7-blue)](https://pypi.org/project/valinix/)
+[![License](https://img.shields.io/github/license/CodeCaret/valinix)](https://github.com/CodeCaret/valinix/blob/main/LICENSE)
 
 
 
